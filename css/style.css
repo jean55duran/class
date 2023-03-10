@@ -1,3 +1,12 @@
 body{
     background-color: cornflowerblue;
 }
+
+img{
+    width: 200px; /*ancho de la imagen*/
+    height: 200px; /*alto de la imagen*/
+}
+
+tr:hover{
+    background-color: blueviolet;
+}
